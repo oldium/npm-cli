@@ -40,7 +40,7 @@
     "@npmcli/arborist": "^9.4.2",
     "@npmcli/run-script": "^10.0.0",
     "npm-package-arg": "^13.0.0",
-    "pacote": "^21.0.2"
+    "pacote": "github:npm/pacote#pull/480/head"
   },
   "engines": {
     "node": "^20.17.0 || >=22.9.0"

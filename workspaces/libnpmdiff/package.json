@@ -53,7 +53,7 @@
     "diff": "^8.0.2",
     "minimatch": "^10.0.3",
     "npm-package-arg": "^13.0.0",
-    "pacote": "^21.0.2",
+    "pacote": "github:npm/pacote#pull/480/head",
     "tar": "^7.5.1"
   },
   "templateOSS": {
